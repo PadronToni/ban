@@ -16,7 +16,7 @@ while test $# -gt 0; do
         echo -e "-f, --font=FONTNAME        specify available font to use from \"$font_dir\""
         echo -e "-l, --list                 lists all available fonts in \"$font_dir\""
         echo ""
-        echo -e "If no option is given, then it will write the messsage with default 3d font."
+        echo -e "If no option is given, then it will write the messsage with user-defined default font."
         echo ""
         exit 0
     ;;
